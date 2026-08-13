@@ -1,4 +1,4 @@
-package com.amu1uu.leetcode.Hot100;
+package com.amu1uu.leetcode.Hot100.h0811;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,7 +14,7 @@ import java.util.List;
  *
  * 注意：答案中不可以包含重复的三元组。
  */
-public class no15 {
+public class NO15 {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         int i = 0;

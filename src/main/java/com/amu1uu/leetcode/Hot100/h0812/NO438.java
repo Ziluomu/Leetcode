@@ -1,4 +1,4 @@
-package com.amu1uu.leetcode.Hot100;
+package com.amu1uu.leetcode.Hot100.h0812;
 
 /**
  * @author amu1uu

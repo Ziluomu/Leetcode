@@ -1,13 +1,11 @@
-package com.amu1uu.leetcode.Hot100;
+package com.amu1uu.leetcode.Hot100.h0810;
 
 /**
  * @author amu1uu
  * {@code @date } 2026年08月10日 20:12
  */
 
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.Map;
 
 /**
  * 给定一个整数数组 nums 和一个整数目标值 target，请你在该数组中找出和为目标值 target  的那 两个 整数，并返回它们的数组下标。
