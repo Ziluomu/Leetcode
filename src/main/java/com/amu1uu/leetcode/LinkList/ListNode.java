@@ -6,14 +6,14 @@ package com.amu1uu.leetcode.LinkList;
  */
 public class ListNode {
     int val;
-    ListNode next;
+    public ListNode next;
 
     // 无参构造
     ListNode() {
     }
 
     // 有参构造
-    ListNode(int val) {
+    public ListNode(int val) {
         this.val = val;
     }
 
