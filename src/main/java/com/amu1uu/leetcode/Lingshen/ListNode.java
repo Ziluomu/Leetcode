@@ -1,4 +1,4 @@
-package com.amu1uu.leetcode.LinkList;
+package com.amu1uu.leetcode.Lingshen;
 
 /**
  * @author amu1uu
